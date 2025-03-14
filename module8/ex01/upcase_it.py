@@ -1,8 +1,9 @@
 #!/usr/bin/python3
-class UPPER:
- def upcase_it(self):
 
-    print("Hello, everyone!").upper()
+def upcase_it(text):
 
-class_ref = UPPER()
-class_ref.upcase_it() 
+     return text.upper()
+
+print(upcase_it("hello"))
+
+

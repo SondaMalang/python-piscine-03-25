@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-class HELLO:
- def method_hello(self):
+
+def method_hello():
     print("Hello, everyone!")
 
-class_ref = HELLO()
-class_ref.method_hello() 
+
+method_hello() 
