@@ -1,4 +1,5 @@
 Python Piscine - 42 Warsaw
+
 Welcome to my Python Piscine repository! 🚀 This is a collection of projects and exercises I completed as part of the Python Piscine at 42 Warsaw. The piscine is an intensive coding bootcamp designed to teach problem-solving, algorithmic thinking, and Python fundamentals.
 
 🛠 Technologies & Tools
